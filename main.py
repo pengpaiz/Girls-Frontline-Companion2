@@ -1,7 +1,7 @@
 """AuraPet — 桌面宠物入口"""
 import sys
 from PyQt5.QtWidgets import QApplication
-from pet import DesktopPet
+from ui import DesktopPet
 
 
 def main():
